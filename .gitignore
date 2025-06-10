@@ -1,0 +1,10 @@
+.env
+model.safetensors
+*.onnx
+**/cached_model/**
+*.wav
+wandb/
+optuna.db
+results/
+logs/
+optimization_results.csv
